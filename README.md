@@ -28,7 +28,7 @@ What's a world computer if not everyone can participate?
 
 Solving is a winner-take-all game that leads to natural oligopologies, or even worse monopolies.
 
-[<img src="receipts/centralization.png" width="50%">](https://x.com/Data_Always/status/1815878253569269819)
+[<img src="receipts/centralization.png">](https://x.com/Data_Always/status/1815878253569269819)
 
 ## 4. Waste of brainpower
 
